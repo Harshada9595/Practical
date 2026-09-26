@@ -5,5 +5,7 @@ class Simple{
 
         System.out.println("Good Afternoon😊");
 
+        System.out.println("what up!!!");
+
     }
 }
